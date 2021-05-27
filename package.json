@@ -10,7 +10,7 @@
     "react-dom": "^15.5.4",
     "react-icons": "^2.2.3",
     "react-immutable-proptypes": "^2.1.0",
-    "react-onclickoutside": "^5.11.1",
+    "react-onclickoutside": "^6.11.2",
     "react-redux": "^5.0.7",
     "react-transition-group": "^1.1.1",
     "redux": "^4.0.0",
